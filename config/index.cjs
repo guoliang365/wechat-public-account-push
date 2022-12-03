@@ -13,8 +13,13 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '5aaf94bfc29ac71603c33010a8c4b208',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '山东',
+  CITY: '日照',
+  WEATHER: '局部多云',
+  topW: '6℃',
+  butW: '-3摄氏度',
+  count: '1000',
+  brith: '20',
 
   USERS: [
     {
@@ -23,7 +28,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o0sna6T9fJKwnYynrtrkxVgfFfLA',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'C5QJu3A42L7loHoiVMU4PidFzx-XQSZa9dgNu-bxayE',
+      useTemplateId: 'peyc9doI02s6SFKNfp_KjxiTnUHSxYFdsvO9n2x9PZY',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
@@ -50,16 +55,16 @@ const USER_CONFIG = {
   ],
 
 
-  // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '26KY6v2LJM-0MrWY1kmFtimlQIHDtSIWEkaxJUEOtAs',
+//   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
+//   CALLBACK_TEMPLATE_ID: '26KY6v2LJM-0MrWY1kmFtimlQIHDtSIWEkaxJUEOtAs',
 
-  CALLBACK_USERS: [
-    {
-      name: '自己',
-      // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o0sna6T9fJKwnYynrtrkxVgfFfLA',
-    }
-  ],
+//   CALLBACK_USERS: [
+//     {
+//       name: '自己',
+//       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+//       id: 'o0sna6T9fJKwnYynrtrkxVgfFfLA',
+//     }
+//   ],
 
 }
 
