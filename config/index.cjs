@@ -16,8 +16,8 @@ const USER_CONFIG = {
   PROVINCE: '山东',
   CITY: '日照',
   WEATHER: '局部多云1',
-  min_temperature: '6',
-  max_temperature: '-3',
+  min_temperature: '5℃',
+  max_temperature: '25℃',
   COUNT: '1000',
   BRITH: '我们',
 
