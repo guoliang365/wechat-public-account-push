@@ -15,11 +15,11 @@ const USER_CONFIG = {
 
   PROVINCE: '山东',
   CITY: '日照',
-  WEATHER: '局部多云',
-  TOP: '6℃',
-  BUT: '-3摄氏度',
+  WEATHER: '局部多云1',
+  TOP: '6',
+  BUT: '摄氏度',
   COUNT: '1000',
-  BRITH: '20',
+  BRITH: '我们',
 
   USERS: [
     {
