@@ -16,8 +16,8 @@ const USER_CONFIG = {
   PROVINCE: '山东',
   CITY: '日照',
   WEATHER: '局部多云1',
-  TOP: '6',
-  BUT: '摄氏度',
+  min_temperature: '6',
+  max_temperature: '-3',
   COUNT: '1000',
   BRITH: '我们',
 
@@ -28,7 +28,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o0sna6T9fJKwnYynrtrkxVgfFfLA',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'YPf5aksu_y8RgP6BmZGVKYpnZtMLzeKICi0IsEgMUXI',
+      useTemplateId: 'XX7B9fSRKukCsFRp4mms37_1a0i8GIau1fwNFrshrno',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
