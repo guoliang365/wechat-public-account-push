@@ -16,10 +16,10 @@ const USER_CONFIG = {
   PROVINCE: '山东',
   CITY: '日照',
   WEATHER: '局部多云',
-  topW: '6℃',
-  butW: '-3摄氏度',
-  count: '1000',
-  brith: '20',
+  TOPW: '6℃',
+  BUTW: '-3摄氏度',
+  COUNT: '1000',
+  BRITH: '20',
 
   USERS: [
     {
